@@ -1,4 +1,5 @@
 # Math formulas
+# TODO Площадь
 ## Area
 ### Площадь окружности
 - Circle: S = πR²
@@ -6,7 +7,7 @@
 - Rectangle: S = ab
 ### Площадь квадрата
 - Square: S = a²
-
+# TODO Периметр
 ## Perimeter
 ### Длина окружности
 - Circle: P = 2πR

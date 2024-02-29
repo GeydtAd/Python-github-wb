@@ -3,9 +3,9 @@ b = int(input("Ввведите длину стороны прямоугольн
 def area(a, b):
     return a * b
 S = area(a, b)
-print("Площадь квадрата S = ", S)
+print("Площадь прямоугольника S = ", S)
 
 def perimeter(a, b):
     return 2 * a + 2 * b
 P = perimeter(a, b)
-print("Периметр квадрата P = ", P)
+print("Периметр прямоугольника P = ", P)
